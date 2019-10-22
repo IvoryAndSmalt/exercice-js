@@ -1,3 +1,7 @@
 {
-
+  "name": "Exercices JS",
+  "version": "1.0.0",
+  "description": "Exos en JS",
+  "main": "index.html",
+  "dependencies": {},
 }
